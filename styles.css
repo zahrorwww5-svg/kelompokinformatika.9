@@ -1,0 +1,25 @@
+/* Place your CSS styles in this file */
+body{background-color:lightsteelblue}
+
+h1 {
+    text-align: center;
+    font-size: larger;
+    color: black;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-weight: normal;
+    font-weight: bold
+}
+
+p {
+    color: rgb(70, 91, 116);
+    text-align: left;
+    font-size: medium;
+     font-family: 'Pixelify Sans', sans-serif;
+}
+
+#p2 { color: rgb(41, 43, 50);
+    text-align: left;
+    font-size: medium;
+     font-family: 'Pixelify Sans', sans-serif;}
+
+marquee {font-family: 'Pixelify Sans', sans-serif;}}
